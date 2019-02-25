@@ -2,7 +2,6 @@ import yaml
 
 CONFIG_PATH = "./config/config.yml"
 
-
 class ConfigResolver:
 
     def __init__(self, logger):
